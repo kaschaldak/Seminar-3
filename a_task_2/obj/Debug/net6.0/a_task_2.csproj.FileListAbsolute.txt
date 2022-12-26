@@ -3,3 +3,13 @@ C:\Users\иир\Desktop\учеба\work_dotnet\seminar_3\a_task_2\obj\Debug\net6
 C:\Users\иир\Desktop\учеба\work_dotnet\seminar_3\a_task_2\obj\Debug\net6.0\a_task_2.AssemblyInfoInputs.cache
 C:\Users\иир\Desktop\учеба\work_dotnet\seminar_3\a_task_2\obj\Debug\net6.0\a_task_2.AssemblyInfo.cs
 C:\Users\иир\Desktop\учеба\work_dotnet\seminar_3\a_task_2\obj\Debug\net6.0\a_task_2.csproj.CoreCompileInputs.cache
+C:\Users\иир\Desktop\учеба\work_dotnet\seminar_3\a_task_2\bin\Debug\net6.0\a_task_2.exe
+C:\Users\иир\Desktop\учеба\work_dotnet\seminar_3\a_task_2\bin\Debug\net6.0\a_task_2.deps.json
+C:\Users\иир\Desktop\учеба\work_dotnet\seminar_3\a_task_2\bin\Debug\net6.0\a_task_2.runtimeconfig.json
+C:\Users\иир\Desktop\учеба\work_dotnet\seminar_3\a_task_2\bin\Debug\net6.0\a_task_2.dll
+C:\Users\иир\Desktop\учеба\work_dotnet\seminar_3\a_task_2\bin\Debug\net6.0\a_task_2.pdb
+C:\Users\иир\Desktop\учеба\work_dotnet\seminar_3\a_task_2\obj\Debug\net6.0\a_task_2.dll
+C:\Users\иир\Desktop\учеба\work_dotnet\seminar_3\a_task_2\obj\Debug\net6.0\refint\a_task_2.dll
+C:\Users\иир\Desktop\учеба\work_dotnet\seminar_3\a_task_2\obj\Debug\net6.0\a_task_2.pdb
+C:\Users\иир\Desktop\учеба\work_dotnet\seminar_3\a_task_2\obj\Debug\net6.0\a_task_2.genruntimeconfig.cache
+C:\Users\иир\Desktop\учеба\work_dotnet\seminar_3\a_task_2\obj\Debug\net6.0\ref\a_task_2.dll
