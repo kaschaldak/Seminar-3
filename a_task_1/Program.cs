@@ -2,8 +2,7 @@
 // 14212 -> нет
 //12821 -> да
 //23432 -> да
-Console.WriteLine("Enter SetNumber : ");
-int SetNumber = Convert.ToInt32(Console.ReadLine ());
+
 int  numPalindrome  =  SetNumber ( "Palindrome " );
 
 bool  isPalindrome  =  IsPalindromeInt( numPalindrome );
